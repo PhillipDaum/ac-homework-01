@@ -2,7 +2,7 @@ import { useState } from 'react';
 import '../App.css';
 
 
-function Cards(readStuff) {
+function Cards({readStuff}) {
   console.log(readStuff)
 
 
